@@ -1,0 +1,9 @@
+urllib3
+PyMuPDF
+numpy
+tensorflow-hub
+openai
+Gradio
+scikit-learn
+
+
